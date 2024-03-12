@@ -1,0 +1,602 @@
+name: "main"
+collection_instances {
+  id: "resource_node_apple"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple1"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -2.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple2"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 2.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple3"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 4.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple4"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -4.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple5"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 0.0
+    y: 0.0
+    z: -2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple6"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -2.0
+    y: 0.0
+    z: -2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple7"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 2.0
+    y: 0.0
+    z: -2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple8"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 4.0
+    y: 0.0
+    z: -2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple9"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -4.0
+    y: 0.0
+    z: -2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple10"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 0.0
+    y: 0.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple11"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -2.0
+    y: 0.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple12"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 2.0
+    y: 0.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple13"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 4.0
+    y: 0.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple14"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -4.0
+    y: 0.0
+    z: 2.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple15"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 2.0
+    y: 0.0
+    z: -8.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple16"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 4.0
+    y: 0.0
+    z: -4.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple17"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -4.0
+    y: 0.0
+    z: -8.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple18"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 2.0
+    y: 0.0
+    z: -4.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple19"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 4.0
+    y: 0.0
+    z: -6.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple20"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 0.0
+    y: 0.0
+    z: -4.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple21"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 0.0
+    y: 0.0
+    z: -8.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple22"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -2.0
+    y: 0.0
+    z: -8.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple23"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -4.0
+    y: 0.0
+    z: -4.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple24"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 0.0
+    y: 0.0
+    z: -6.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple25"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -2.0
+    y: 0.0
+    z: -4.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple26"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -2.0
+    y: 0.0
+    z: -6.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple27"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: -4.0
+    y: 0.0
+    z: -6.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple28"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 4.0
+    y: 0.0
+    z: -8.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "resource_node_apple29"
+  collection: "/main/resource_node_apple.collection"
+  position {
+    x: 2.0
+    y: 0.0
+    z: -6.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+scale_along_z: 0
